@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What is Three-phase charging?
+title: What is Three-phase Charging?
 date: 2023-10-12T17:12:20.406Z
 description: Three-phase charging is a type of electric vehicle (EV) charging
   that uses three phases of electrical power to charge the EV's battery. This
