@@ -41,11 +41,7 @@ Using an electric van is similar to using a regular van. However, there are a fe
 * Charging the van: You will need to charge the van regularly. You can charge the van at a public charging station, at home, or at work.
 * Driving the van: Electric vans drive differently than ICE vans. Electric vans are quieter and smoother to drive. They also have a different braking system.
 
-
-
 ![](/img/new_charging_points.jpeg)
-
-
 
 **Charging an electric van**
 
@@ -79,8 +75,6 @@ Here is a table that summarises the different types of chargers for electric van
 
 
 
-
-
 When choosing a charger for your electric van, it is important to consider the following factors:
 
 * The power rating of the charger: The power rating of the charger will determine how quickly it can charge your van.
@@ -95,8 +89,6 @@ Here are a few tips for finding electric van chargers:
 * Look for charging stations at car parks, shopping centres, and motorway service stations.
 * Check to see if your workplace has electric vehicle charging points.
 * Ask your local council about electric vehicle charging points in your area.
-
-
 
 **Additional tips**
 
