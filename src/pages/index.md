@@ -3,7 +3,7 @@ templateKey: index-page
 title: Electric Van Hire UK Hub
 image: /img/pexels-photo-3846205.webp
 heading: How to Hire an Electric Van in the UK
-subheading: "A Comprehensive Guide "
+subheading: Here to help you go electric!
 mainpitch:
   title: "Helping you to get to grips with Zero-Emission Van Hire "
   description: >+
