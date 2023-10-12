@@ -20,14 +20,14 @@ intro:
   blurbs:
     - image: /img/navigation-car-drive-road.webp
       text: Where to Hire an Electric Van
-    - image: /img/coffee-gear.png
+    - image: /img/pexels-photo-977213.webp
       text: How to Operate an Electric Van
-    - image: /img/tutorials.png
+    - image: /img/pexels-photo-8349487.jpeg
       text: How to Charge an Electric Van
-    - image: /img/meeting-space.png
+    - image: /img/pexels-photo-3160544.jpeg
       text: How to Save Money When you Drive an Electric Van
   heading: Here is some text
-  description: Here is some more text
+  description: " Here is some more text "
 main:
   heading: Here is some text
   description: Here is some more text
