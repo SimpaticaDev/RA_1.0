@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Electric Van Hire UK Hub
 image: /img/pexels-photo-3846205.webp
-heading: "Helping you to with Zero-Emission Van Hire "
-subheading: A Comprehensive Guide
+heading: How to Hire an Electric Van in the UK
+subheading: "A Comprehensive Guide "
 mainpitch:
-  title: How to Hire an Electric Van in the UK
+  title: "Helping you to get to grips with Zero-Emission Van Hire "
   description: >+
     Electric vans are becoming increasingly popular in the UK, as businesses and
     individuals look to reduce their carbon footprint and save money on fuel
