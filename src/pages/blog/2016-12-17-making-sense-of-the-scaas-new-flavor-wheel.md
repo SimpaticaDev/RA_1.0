@@ -12,7 +12,9 @@ tags:
   - Type2
   - Charging
 ---
-![Animation of Type 1 and Type 2 Chargers ](/img/ccs-type-1-vs-ccs-type-2-comparison.jpeg "Credit: EV Charging")
+![Animation of Type 1 and Type 2 Chargers ](/img/ccs-type-1-vs-ccs-type-2-comparison.jpeg)
+
+*I﻿mage Credit: EV Charging*
 
 **History of electric charging connectors**
 
