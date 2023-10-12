@@ -1,33 +1,94 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Type 1 vs. Type 2 EV Charging Connectors
+date: 2023-10-13T14:04:10.000Z
+description: |+
+  A brief history of EV charging connectors in the UK
+
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/ccs-type-1-vs-ccs-type-2-comparison.jpeg
 tags:
-  - flavor
-  - tasting
+  - Type1
+  - Type2
+  - Charging
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Animation of Type 1 and Type 2 Chargers ](/img/ccs-type-1-vs-ccs-type-2-comparison.jpeg "Credit: EV Charging")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+**History of electric charging connectors**
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+The first electric cars were developed in the late 19th century, but they did not become popular until the early 2000s. This was due to a number of factors, including the high cost of electric cars, the limited range of electric cars, and the lack of charging infrastructure.
 
-## What the updates mean to you
+One of the challenges with early electric cars was the lack of a standard charging connector. This meant that different electric cars used different connectors, which made it difficult to charge electric cars at public charging stations.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+In the early 2000s, a number of different electric charging connectors were developed, including the J1772 connector, the Type 2 connector, and the CHAdeMO connector.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+**The J1772 connector**
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+The J1772 connector is a single-phase connector that is capable of charging at speeds up to 7kW. It is the standard charging connector for electric vehicles in the United States and Canada.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+The J1772 connector was developed by the Society of Automotive Engineers (SAE) in 2001. It was designed to be a safe and reliable connector that could be used for both home and public charging.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+**The Type 2 connector**
+
+The Type 2 connector is a three-phase connector that is capable of charging at speeds up to 43kW. It is the standard charging connector for electric vehicles in Europe and the UK.
+
+The Type 2 connector was developed by the International Electrotechnical Commission (IEC) in 2003. It was designed to be a high-power connector that could be used for both fast and rapid charging.
+
+**The CHAdeMO connector**
+
+The CHAdeMO connector is a DC connector that is capable of charging at speeds up to 350kW. It is the standard charging connector for electric vehicles in Japan.
+
+The CHAdeMO connector was developed by the CHAdeMO Association in 2009. It was designed to be a high-power connector that could be used for rapid charging.
+
+**The UK's decision to adopt Type 2 connectors**
+
+In 2012, the UK government announced that it would be adopting the Type 2 connector as the standard charging connector for electric vehicles in the UK. This decision was made after a consultation with the automotive industry and the public.
+
+The UK government chose the Type 2 connector because it is a high-power connector that is capable of supporting both fast and rapid charging. It is also a widely used connector in Europe, which means that it is compatible with a wide range of electric vehicles.
+
+**The future of electric charging connectors**
+
+The future of electric charging connectors is uncertain. There are a number of different new connectors being developed, such as the CCS connector and the MCS connector. These new connectors are capable of even higher charging speeds than the Type 2 connector.
+
+It is possible that one of these new connectors will become the standard charging connector for electric vehicles in the future. However, it is also possible that the Type 2 connector will remain the standard charging connector for many years to come.
+
+**Benefits of using Type 2 connectors**
+
+There are a number of benefits to using Type 2 connectors:
+
+* **Wide compatibility:** Type 2 connectors are widely used in Europe and the UK, which means that they are compatible with a wide range of electric vehicles.
+* **High power:** Type 2 connectors are capable of supporting both fast and rapid charging.
+* **Safety:** Type 2 connectors are designed to be safe and reliable.
+* **Availability:** Type 2 charging stations are becoming increasingly available in the UK.
+
+**Differences between Type 1 and Type 2 connectors**
+
+The main difference between Type 1 and Type 2 connectors is that Type 2 connectors are capable of supporting three-phase charging. This means that Type 2 connectors can charge electric vehicles faster than Type 1 connectors.
+
+Another difference between Type 1 and Type 2 connectors is that Type 2 connectors have a pilot pin. The pilot pin is used to communicate between the electric vehicle and the charging station. This communication allows the electric vehicle to negotiate the charging speed and to ensure that the charging station is compatible with the electric vehicle.
+
+**Examples of cars and vans in the UK that use Type 1 connectors:**
+
+* Chevrolet Volt
+* Nissan Leaf (older models)
+* Mitsubishi i-MiEV
+* Peugeot iOn
+* Citroën C-Zero
+
+**Examples of cars and vans in the UK that use Type 2 connectors:**
+
+* Tesla Model 3
+* Tesla Model Y
+* Volkswagen ID.3
+* Volkswagen ID.4
+* Renault Zoe
+* Nissan Leaf (newer models)
+* Hyundai Kona Electric
+* Kia e-Niro
+* Peugeot e-208
+* Citroën ë-C4
+* Vauxhall Corsa-e
+* Ford Mustang Mach-E
+* BMW iX3
+* Audi e-tron
+* Mercedes-Benz EQC
